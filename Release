@@ -1,0 +1,8 @@
+Origin: unc0ver克隆源
+Label: unc0ver克隆源
+Suite: stable
+Version: 1.0
+Codename: 他是个疯子
+Architecture: iphoneos-arm
+Components: main
+Description: unc0ver依赖 Tweaks
